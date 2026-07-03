@@ -1,0 +1,13 @@
+beautifulsoup4
+matplotlib
+nlpaug
+nltk
+numpy
+pandas
+scikit-learn
+sentencepiece
+seaborn
+spacy
+torch
+tqdm
+transformers
