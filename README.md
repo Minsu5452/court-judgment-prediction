@@ -14,7 +14,7 @@
 | 평가지표 | Accuracy |
 | 결과 | 2위 |
 | 과제 | 판결문 기반 승소 당사자 이진 분류 |
-| 모델 | DeBERTa-v3 fine-tuning |
+| 모델 | DeBERTa-v3 파인튜닝 |
 
 ## 접근
 
